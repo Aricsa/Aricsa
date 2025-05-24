@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Still%20working...%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Still%20working...%20%F0%9F%9B%A0%EF%B8%8F%F0%9F%9B%A0%EF%B8%8F)
   
 </div>
 
